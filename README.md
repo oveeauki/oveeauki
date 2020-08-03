@@ -37,6 +37,6 @@ i mainly code C++.
 
 
 
-<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" width="300"> ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oveeauki&show_icons=true&theme=radical)
+<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" width="323"> ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oveeauki&show_icons=true&theme=radical)
 
                                                                             
