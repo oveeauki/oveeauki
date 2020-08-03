@@ -1,3 +1,1 @@
-#Klonkku
-
-![2]
+# Klonkku
