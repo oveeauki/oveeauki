@@ -1,7 +1,7 @@
 # @oveeauki :penguin: :penguin:⠀⠀⠀                                
 ```
 Hi! Im learning penetration-tester and programmer.
-i mainly code C++.                                              
+i mainly code C++ but also know some Python,JavaScript and HTML.                                              
 ```
 ![efef](https://i.ibb.co/qNrjr3N/oveeauki.png)
 
