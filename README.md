@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
-Hi! Im learning penetration-tester and programmer.
+Hi! Im learning pen-tester and programmer.
 i mainly code C++ but also know some Python,JavaScript and HTML.                                              
 ```
 ![efef](https://i.ibb.co/qNrjr3N/oveeauki.png)
