@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki)
 
 ```
-Hi! Im Elias.  Linux enthusiast , Programmer and infosec hobbyist
+Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
 i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.                                              
 ```
 ![efef](https://i.ibb.co/qNrjr3N/oveeauki.png)
