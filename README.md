@@ -4,7 +4,7 @@
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
 i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.                                   
 ```
-![dwdw](https://komarev.com/ghpvc/?username=oveeauki&style=flat-square)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+![dwdw](https://tryhackme-badges.s3.amazonaws.com/oveeauki.png)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
    
 
