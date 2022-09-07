@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" width="323">
+<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki)
 
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
@@ -7,7 +7,6 @@ i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=oveeauki&style=flat-square) ![Followeramount](https://img.shields.io/github/stars/oveeauki?label=Stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki)
 
 ![dwdw](https://tryhackme-badges.s3.amazonaws.com/oveeauki.png)
 
