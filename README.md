@@ -1,4 +1,4 @@
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki) <img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165"> 
+<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki)
 
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
@@ -10,10 +10,8 @@ i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.
 
 ![dwdw](https://tryhackme-badges.s3.amazonaws.com/oveeauki.png)
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<img src="https://cdn.discordapp.com/attachments/667446707826458654/787737963248746526/cpp.png" width="50"> <img style="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="50"><img src="https://i.ibb.co/Hq3M5ft/zap.png" width=45>
-<img src="https://camo.githubusercontent.com/a0749e18786e64dcf16e7fc424fb029de5cebadc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f646973636f72642e737667" width=45>
-
+<p align="left"> <a href="https://cplusplus.com/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/667446707826458654/787737963248746526/cpp.png" alt="C++" width="40" height="40"/> </a>  <a href="https://discordapp.com/users/300648311067508754/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/archlinux_logo_icon_167835.png" alt="Arch_Linux" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="40" height="40"/> </a> 
+ 
 
 ```
 [00:00:00] fredi :: index  ➜  ~ » tux
