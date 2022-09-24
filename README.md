@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki)
+<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
 
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
