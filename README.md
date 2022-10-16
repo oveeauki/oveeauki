@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html&layout=compact)](https://github.com/oveeauki) 
+<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki) 
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
 i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.                                   
@@ -34,5 +34,3 @@ i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.
 ```
 
 ![stats](https://activity-graph.herokuapp.com/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=6&custom_title=Activity)
-
-<img src="https://cdn.discordapp.com/attachments/667446707826458654/1031320871203250176/Untitl2ed.png" height="400">   </a>
