@@ -35,4 +35,4 @@ i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.
 [00:00:01] fredi :: index  ➜  ~ » 
 ```
 
-![stats](https://activity-graph.herokuapp.com/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=6&custom_title=Activity)
+![stats](https://github-readme-activity-graph.cyclic.app/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=6&custom_title=Activity)
