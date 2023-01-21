@@ -2,8 +2,8 @@
 
 <img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki) 
 ```
-Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
-i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.                                   
+Hi! Im Elias. Programmer,Linux and infosec hobbyist. 
+I code C++ & JavaScript mainly but also know some Python, SQL and HTML/CSS.                                 
 ```
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=oveeauki) ![Followeramount](https://img.shields.io/github/stars/oveeauki?label=Stars)
