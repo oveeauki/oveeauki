@@ -1,6 +1,6 @@
 ### **[0xFreDi](https://github.com/oveeauki)**
 
-<link rel="shortcut icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/667446707826458654/1074164298340892852/thompsonn2.png">
+<link rel="shortcut icon" type="image/x-icon" href="thompsonn2.png">
 <img src="https://cdn.discordapp.com/attachments/667446707826458654/1045728982840115261/pixelgif.gif" height="270" width="629">
 
 <img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki) 
