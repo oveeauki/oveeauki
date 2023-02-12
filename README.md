@@ -1,5 +1,5 @@
-### **[0xFreDi](https://github.com/oveeauki)**
 <link rel="shortcut icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/667446707826458654/1074162200769462352/34534534535.ico">
+### **[0xFreDi](https://github.com/oveeauki)**
 
 <img src="https://cdn.discordapp.com/attachments/667446707826458654/1045728982840115261/pixelgif.gif" height="270" width="629">
 
