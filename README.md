@@ -40,7 +40,7 @@ i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.
 
 [00:00:01] fredi :: index  ➜  ~ » 
 ```
-[//]: # ({% raw %})
+[//]: # ({% endraw %})
  
 ![stats](https://github-readme-activity-graph.cyclic.app/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=6&custom_title=Activity)
   
