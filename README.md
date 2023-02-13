@@ -1,6 +1,6 @@
 ### **[0xFreDi](https://github.com/oveeauki)**
 
-<link rel="shortcut icon" type="image/x-icon" href="thompsonn2.png"/>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
 <img src="https://cdn.discordapp.com/attachments/667446707826458654/1045728982840115261/pixelgif.gif" height="270" width="629"/>
 
