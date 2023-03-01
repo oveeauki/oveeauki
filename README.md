@@ -4,7 +4,11 @@
 
 <img src="https://cdn.discordapp.com/attachments/667446707826458654/1045728982840115261/pixelgif.gif" height="270" width="629"/>
 
-<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165">  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki) 
+<img src="https://cdn.discordapp.com/attachments/667446707826458654/1080440096454610954/computaaa32.gif" height="165"/>
+
+<img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165"/>  
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki) 
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
 i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.                                   
