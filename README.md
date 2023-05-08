@@ -2,7 +2,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
-<img src="https://cdn.discordapp.com/attachments/667446707826458654/1045728982840115261/pixelgif.gif" height="270" width="590"/>
+<img src="https://cdn.discordapp.com/attachments/667446707826458654/1104990735385755688/meme-funny.gif" height="270" width="590"/>
 
 <img src="https://cdn.discordapp.com/attachments/667446707826458654/1080440096454610954/computaaa32.gif" height="270" width="590"/>  
 
