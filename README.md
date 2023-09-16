@@ -6,7 +6,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/667446707826458654/1080440096454610954/computaaa32.gif" height="270" width="590"/>  
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki) <img src="https://thumbs.gfycat.com/ZigzagPiercingAphid-size_restricted.gif" height="165"/> 
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauk)
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist
 i mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.                                   
