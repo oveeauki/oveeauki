@@ -2,9 +2,9 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
-<img src="https://cdn.discordapp.com/attachments/667446707826458654/1104990735385755688/meme-funny.gif" height="270" width="590"/>
+<img src="https://cdn.discordapp.com/attachments/667446707826458654/1210665125099610212/pixelgif.gif?ex=65eb62c2&is=65d8edc2&hm=689bf39859131b46ec94dea990f64a0375d7199de06d618c040eb31db4266fd3&" height="270" width="590"/>
 
-<img src="https://cdn.discordapp.com/attachments/667446707826458654/1080440096454610954/computaaa32.gif" height="270" width="590"/>  
+<img src="https://media.discordapp.net/attachments/667446707826458654/1210665124570992650/computaa.gif?ex=65eb62c2&is=65d8edc2&hm=d4999649a1c0521e48434185d7321974a0c92d48d0ad878c59460f254f5f40a2&=" height="270" width="590"/>  
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauk)
 ```
