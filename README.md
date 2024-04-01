@@ -4,7 +4,6 @@
 
 <img src="http://172.104.157.44:8000/websiteimages/pixelgif.gif" height="270" width="590"/>
 
-<img src="http://172.104.157.44:8000/websiteimages/comp.gif" height="270" width="590"/>  
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauk)
 ```
