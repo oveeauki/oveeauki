@@ -2,7 +2,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
-<img src="https://cdn.discordapp.com/attachments/667446707826458654/1224433113950847066/pixelgif.gif?ex=662410b3&is=6622bf33&hm=a07ac138e54d043a7e951862795a24ff6ba1ec255bba7775d7f845582ec5083d&" height="270" width="590"/>
+<img src="https://cdn.discordapp.com/attachments/667446707826458654/1216552204740329482/pixelgif.gif?ex=663e1b48&is=663cc9c8&hm=4d649ce8dc0c78ee3d39b1b120e03ca10ed519d659b393fe8adc313c752947e2&" height="270" width="590"/>
 
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauk)
