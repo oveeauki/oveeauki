@@ -9,7 +9,8 @@
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist.
 I mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS. 
-I have also interests in biochemistry, biology, SDR radio& micro controller tinkering, farmacology and music.                                 
+I have also interests in biochemistry, biology, SDR radio,
+micro controller tinkering, farmacology and music.                                 
 ```
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=oveeauki) ![Followeramount](https://img.shields.io/github/stars/oveeauki?label=Stars)
