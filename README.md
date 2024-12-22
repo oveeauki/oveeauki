@@ -8,7 +8,7 @@
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauk)
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist.
-I mainly code C++ & JavaScript but also know some Python, SQL and HTML/CSS.
+I mainly code C & JavaScript but also know some Python, SQL and HTML/CSS.
 I have also interests in biochemistry, biology, SDR radio,
 micro controller tinkering, farmacology,
 music and i also like long guitar playing sessions while absolutely blasted on acid :D
