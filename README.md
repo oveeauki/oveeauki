@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/DQrD9cP/pixelgif.gif" height="270" width="590"/>
 
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauk)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
 ```
 Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist.
 I mainly code C & JavaScript but also know some Python, SQL and HTML/CSS.
