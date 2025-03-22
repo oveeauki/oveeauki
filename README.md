@@ -2,7 +2,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
-<img src="https://i.ibb.co/DQrD9cP/pixelgif.gif" height="270" width="590"/>
+<img src="https://i.ibb.co/zT7YLhrx/pixelgif.gif" height="270" width="590"/>
 
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
