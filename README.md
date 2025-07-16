@@ -6,9 +6,9 @@
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
 ```
-Hi! Im Elias. Linux enthusiast, Programmer and infosec hobbyist.
-I mainly code C & JavaScript but also know some Python, SQL and HTML/CSS.
-I have also interests in biochemistry, biology, SDR radio,
+Hi! Im Elias. Linux enthusiast, Programming and infosec hobbyist.
+I mainly code C & JavaScript but have knowledge in others aswell.
+I have also interests in physical/mental health advocating, traveling & exploring, biochemistry, SDR radio,
 micro controller tinkering, farmacology,
 music and i also like long guitar playing sessions while absolutely blasted on acid :D
 ```
