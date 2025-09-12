@@ -8,9 +8,9 @@
 ```
 Hi! Im Elias. Linux enthusiast, Programming and infosec hobbyist.
 I mainly code C & JavaScript but have knowledge in others aswell.
-I have also interests in physical/mental health advocating, traveling & exploring, biochemistry, SDR radio,
+I have also interests in mental health advocation, traveling & exploring, biochemistry, SDR radio,
 micro controller tinkering, farmacology,
-music and i also like long guitar playing sessions while absolutely blasted on acid :D
+music and i also like long guitar playing sessions while absolutely blasted on acid!
 ```
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=oveeauki) ![Followeramount](https://img.shields.io/github/stars/oveeauki?label=Stars)
