@@ -1,5 +1,5 @@
 # **[oveeauki](https://0xfredii.xyz/)**
-### **[(My GitHub)](https://github.com/oveeauki)**
+### **[My GitHub](https://github.com/oveeauki)**
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
