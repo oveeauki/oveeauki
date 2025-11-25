@@ -5,7 +5,9 @@
 
 <p> <a href="/" target="_blank" alt="W"> <img src="ydxvpshadipc1.png" height="270" width="590"/>  </a> </p>
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
+<a href="https://github.com/oveeauki">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact" alt="Top Langs">
+</a>
 
 ```
 Hi! Im Elias,'00 born kid 😁 i do tech stuff including Linux, Programming and infosec.
