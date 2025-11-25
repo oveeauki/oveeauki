@@ -7,7 +7,7 @@
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
 ```
-Hi! Im Elias. Linux enthusiast, Programming and infosec hobbyist.
+Hi! Im Elias. i do Linux, Programming and infosec stuff.
 I mainly code C & JavaScript but have knowledge in other langs aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
 micro controller tinkering, ornithology aswell! (bird studys)
