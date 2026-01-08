@@ -11,7 +11,7 @@
 Hi! Im Elias,'00 born kid 😁 i do tech stuff including Linux, Programming and infosec.
 I mainly code C & JavaScript but have knowledge in other langs aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
-micro controller tinkering, ornithology aswell! (bird studys)
+micro controller tinkering, ornithology (bird studys) aswell! 
 and i like long guitar playing sessions while absolutely blasted :D
 ```
 
