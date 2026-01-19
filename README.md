@@ -8,7 +8,7 @@
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
 
 ```
-Hi! Im Elias,'00 born kid 😁 i do tech stuff including Linux, Programming and infosec.
+Hi! Im Elias,'00 born kid 😁 i do tech stuff including Linux, Programming and Infosec.
 I mainly code C & JavaScript but have knowledge in other langs aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
 micro controller tinkering, ornithology (bird studys) aswell! 
