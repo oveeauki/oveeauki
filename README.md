@@ -9,10 +9,10 @@
 
 ```
 Hi! Im Elias,'00 born kid 😁 i do tech stuff including Linux, Programming and Infosec.
-I mainly code C & JavaScript but have knowledge in other langs aswell.
+I mainly code C & JavaScript but have knowledge in other langs.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
-micro controller tinkering, ornithology (bird studys) aswell! 
-and i like long guitar playing sessions while absolutely blasted :D
+micro controller tinkering, ornithology (bird studys) & etc! 
+then i like long guitar sessions aswell! also sometimes while absolutely blasted :D
 ```
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=oveeauki) ![Followeramount](https://img.shields.io/github/stars/oveeauki?label=Stars)
