@@ -42,4 +42,4 @@ then i like long guitar sessions aswell! also sometimes while absolutely blasted
 [00:00:01] fredi :: index  ➜  ~ » 
 ```
 
-![stats](https://github-readme-activity-graph.vercel.app/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=6&custom_title=Active)
+![stats](https://github-readme-activity-graph.vercel.app/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=7&custom_title=Active)
