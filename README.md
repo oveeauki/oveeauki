@@ -5,7 +5,7 @@
 
 <p> <a href="/" target="_blank" alt="W"> <img src="ydxvpshadipc1.png" height="270" width="590"/>  </a> </p>
 
-[![TopLangs](http://api.0xfredii.xyz/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)](https://github.com/oveeauki)
+![TopLangs](http://api.0xfredii.xyz/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact)
 
 ```
 Hi! Im Elias,'00 born kid 😁 i do tech stuff including Linux, Programming and Infosec.
