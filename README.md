@@ -1,5 +1,7 @@
 # **[oveeauki](https://0xfredii.xyz/)**
-### **[My GitHub](https://github.com/oveeauki)**
+### **[My GitHub](https://github.com/oveeauki)** 
+#### You can also use my [Github Stats](https://api.0xfredii.xyz/api/?username=oveeauki) API. It works the same way but its up more times than their original one. 
+#### Its original documentation can be found [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) 
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
@@ -14,6 +16,8 @@ I have also interests in sports, mental health research, traveling & exploring, 
 micro controller tinkering, ornithology (bird studys) & etc! 
 then i like long guitar sessions aswell! also sometimes while absolutely blasted :D
 ```
+
+
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=oveeauki) ![Followeramount](https://img.shields.io/github/stars/oveeauki?label=Stars)
 
