@@ -11,7 +11,7 @@
 
 ```
 Hi! Im Elias,'00 Finnish guy 😁 i do tech stuff including Linux, Programming and Infosec.
-I mainly code C & JavaScript but have knowledge in other langs.
+I mainly code C & JavaScript but know other ones slightly aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
 micro controller tinkering, ornithology (bird studys) & etc! 
 then i like long guitar sessions aswell!
