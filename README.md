@@ -13,7 +13,7 @@
 Hi! Im Elias,'00 Finnish guy 😁 i do tech stuff including Linux, Programming and Infosec.
 I mainly code C & JavaScript but know other ones slightly aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
-micro controller tinkering, ornithology (bird studys), also i like long guitar sessions aswell!
+micro controller tinkering, ornithology (bird studys), also i like long guitar sessions!!
 ```
 
 ![views](https://komarev.com/ghpvc/?username=oveeauki) ![stars](https://img.shields.io/github/stars/oveeauki?label=Stars)
