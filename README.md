@@ -1,7 +1,7 @@
 # **[oveeauki](https://0xfredii.xyz/)**
 ### **[My GitHub](https://github.com/oveeauki)** 
-#### You can also use my [Github Stats](https://api.0xfredii.xyz/api/?username=oveeauki) API. It works the same way but its up more times than their original one. 
-#### Its original documentation can be found [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) 
+#### You can also use my [Github Stats](https://api.0xfredii.xyz/api/?username=oveeauki) API. Its just fork from the original one but self hosted behind my own domain with https cert since the original being down often. 
+#### The original repo [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) 
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 
