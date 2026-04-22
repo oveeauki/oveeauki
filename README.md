@@ -10,7 +10,7 @@
 <a><img src="http://api.0xfredii.xyz/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact" alt="Most Used Languages"/> <img src="https://api.0xfredii.xyz/api/?username=oveeauki&layout=compact" alt="GitHub Stats" width="379"/><a/>
 
 ```
-Hi! Im Elias,'00 Finnish guy 🇫🇮 😁 i like Linux stuff, Hardware, Programming and Infosec.
+Im Elias,'00 Finnish guy 🇫🇮 😁 i like Linux stuff, Hardware, Programming and Infosec.
 I mainly code C & JavaScript but know other ones slightly aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
 micro controllers, ornithology (bird studys), also long guitar sessions!
