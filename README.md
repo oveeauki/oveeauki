@@ -1,6 +1,6 @@
 # **[oveeauki](https://0xfredii.xyz/)**
 ### **[My GitHub](https://github.com/oveeauki)** 
-#### You can also use my [Github Stats](https://api.0xfredii.xyz/api/?username=torvalds) API. Its just fork from the original one but self hosted behind my own domain with https cert since the original being down often. 
+#### You can also use my Github Stats API. Its just fork from the original one but self hosted behind my own domain at [https://api.0xfredii.xyz](https://api.0xfredii.xyz/api/?username=torvalds) with https cert since the original being down often.
 #### The original repo [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) 
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
