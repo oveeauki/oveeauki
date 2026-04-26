@@ -9,15 +9,14 @@
 
 <a><img src="http://api.0xfredii.xyz/api/top-langs/?username=oveeauki&hide=php,html,shell&layout=compact" alt="Most Used Languages"/> <img src="https://api.0xfredii.xyz/api/?username=oveeauki&layout=compact" alt="GitHub Stats" width="379"/><a/>
 
+![views](https://komarev.com/ghpvc/?username=oveeauki) ![stars](https://img.shields.io/github/stars/oveeauki?label=Stars)
+
 ```
 Im Elias,'00 Finnish guy 🇫🇮 😁 i like Linux stuff, Hardware, Programming and Infosec.
 I mainly code C & JavaScript but know other ones slightly aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
 micro controllers, ornithology (bird studys), also long guitar sessions!
 ```
-
-![views](https://komarev.com/ghpvc/?username=oveeauki) ![stars](https://img.shields.io/github/stars/oveeauki?label=Stars)
-
 <p style="text-align: left;">
     <a href="https://en.cppreference.com/w/c/language" target="_blank"><img src="clang.png" alt="C" width="40" height="45"/></a>
     <a href="https://discordapp.com/users/300648311067508754/" target="_blank"><img src="disc.png" alt="Discord" width="40" height="40"/></a>
