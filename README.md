@@ -12,7 +12,7 @@
 ![views](https://komarev.com/ghpvc/?username=oveeauki) ![stars](https://img.shields.io/github/stars/oveeauki?label=Stars)
 
 ```
-Im Elias,'00 Finnish guy 🇫🇮 😁 i like Linux stuff, Hardware, Programming and Infosec.
+Im Elias,'00 Finnish guy 🇫🇮 I like Linux, Hardware, Programming and Infosec related stuff!
 I mainly code C & JavaScript but know other ones slightly aswell.
 I have also interests in sports, mental health research, traveling & exploring, biochem, SDR radio,
 micro controllers, ornithology (bird studys), also long guitar sessions!
