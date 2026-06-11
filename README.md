@@ -25,7 +25,7 @@ micro controllers, ornithology (bird studys), also long guitar sessions!
     <a href="https://tryhackme.com/p/oveeauki"><img alt="TryHackMe Profile" src="https://tryhackme-badges.s3.amazonaws.com/oveeauki.png" width="175"></a>
 </p>
 
-![stats](https://github-readme-activity-graph.vercel.app/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=7&custom_title=Commits)
+![stats](https://github-readme-activity-graph.vercel.app/graph?username=oveeauki&theme=xcode&hide_border=true&area=false&radius=7&custom_title=RecentCommits)
 
 ```
 [00:00:00] fredi :: index  ➜  ~ » tux
